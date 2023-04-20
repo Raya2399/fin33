@@ -1,5 +1,5 @@
 exports.onlyPrem = `Fitur khusus member premium`
-exports.aikey = `apikey open ai salah, silahkan ganti di settins.js`
+exports.aikey = `apikey open ai salah`
 exports.DelSetWel = `Sukses delete set welcome di grup ini`
 exports.NoSetWel = `Belum ada set welcome di grup ini`
 exports.DelSetLeft = `Sukses delete set goodbye di grup ini`
@@ -1858,6 +1858,7 @@ exports.listMenu2 = (prefix) => {
 │○ Mhankbarbar
 │○ Nurutomo
 │○ ZeeoneOfc
+│○ Fin Ofc
 │○ Penyedia Module
 ╰❒ And All Support
     `
@@ -1873,9 +1874,6 @@ exports.rules = (prefix) => {
 
 🗯️ Bot tidak atau lambat merespon ?
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
-
-🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini bisa kalian dapatkan di YouTube ZEEONE OFC
 
 🗯️ Boleh saya menambah ke grup?
 ➡️ Untuk itu tergantung dari owner bot sendiri
@@ -1907,7 +1905,7 @@ exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://s.id/YouTube-Zeeoneofc
+Recode : Fin Ofc
 `
 }
 exports.tos = (ownernomer) => {
